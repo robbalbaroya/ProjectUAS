@@ -1,2 +1,6 @@
 # Tembak-Pesawat
 Game Tembak Pesawat Greenfoot
+NAMA KELOMPOK:-ROBBAL BAROYA(2211102441023)
+              -ABDUR ROZAQ(2211102441072)
+              -NASRULLAH(2211102441081)
+              -RIFKA ADESTYA GUSTAM (2211102441235)
